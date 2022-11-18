@@ -1,5 +1,6 @@
-import harvardArt from "../../data/harvardArt";
+// import harvardArt from "../../data/harvardArt";
 import { NavLink } from "react-router-dom";
+import "./GalleryNavigation.css";
 
 function GalleryNavigation({galleries}) {
   // console.log(galleries);
